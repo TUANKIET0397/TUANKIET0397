@@ -50,5 +50,5 @@
 <p align="center">
   <a href="https://facebook.com/TKiet1607"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="href="mailto:kiet8103@gmail.com?subject=Yêu cầu hỗ trợ&body=Chào bạn, tôi cần hỗ trợ về...""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:kiet8103@gmail.com?subject=Yêu cầu hỗ trợ&body=Chào bạn, tôi cần hỗ trợ về..."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
