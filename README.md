@@ -55,8 +55,10 @@
   </a>
 </p>
 
-
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 > “Code không phải là công việc, mà là nghệ thuật.” 🎨
+</p>
+
+
 
