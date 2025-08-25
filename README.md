@@ -19,15 +19,15 @@
 
 ### 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUANKIET0397&show_icons=true&theme=radical&cache_seconds=100" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TUANKIET0397&show_icons=true&theme=radical&cache_seconds=1000" alt="stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUANKIET0397&theme=dark&cache_seconds=100" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUANKIET0397&theme=dark&cache_seconds=1000" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUANKIET0397&layout=compact&theme=tokyonight&cache_seconds=100" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUANKIET0397&layout=compact&theme=tokyonight&cache_seconds=1000" alt="langs"/>
 </p>
 
 ---
