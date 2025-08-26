@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUANKIET0397&theme=dark&cache_seconds=1800" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUANKIET0397&theme=dark&cache_seconds=2000" alt="streak"/>
 </p>
 
 <p align="center">
